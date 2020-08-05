@@ -1,1 +1,1 @@
-# My portifolion in HTML and CSS
+# My portfolio in HTML and CSS
